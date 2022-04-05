@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Lab_5</string>
+    <string name="app_name">TwoActivitiesLifecycle</string>
+    <string name="count">0</string>
+
 </resources>
